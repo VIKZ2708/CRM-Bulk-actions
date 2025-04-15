@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "zxcvbnM@1",
+    "database": "crm_bulk",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
